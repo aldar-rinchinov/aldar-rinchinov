@@ -23,6 +23,18 @@ I'm a beginner QA engineer...
 
 ---
 
+<h2>My Test Artifacts</h2>
+<ul>
+  <li><a href="https://github.com/aldar-rinchinov/web_testing">Web Testing</a> 
+  <li><a href="https://github.com/aldar-rinchinov/api_testing">API Testing</a> 
+  <li><a href="https://github.com/aldar-rinchinov/testing_theory">Testing theory</a>
+  <li><a href="https://github.com/aldar-rinchinov/test_design_and_documentation">Test design and documentation</a>
+  <li><a href="https://github.com/aldar-rinchinov/sql_and_mongodb">MySQL and MongoDB</a>
+  <li><a href="https://github.com/aldar-rinchinov/git_and_bash">Git and Bash</a>
+</ul>
+
+---
+
 ### 📁 Тестовая документация:
 
 <div>
