@@ -13,10 +13,10 @@ I'm a beginner QA engineer...
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/" target="_blank">
+    <a href="https://www.linkedin.com/in/aldar-rinchinov/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/@aldar779" target="_blank">
+    <a href="https://t.me/aldar779" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
