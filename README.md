@@ -6,7 +6,7 @@
 
 I'm a beginner QA engineer...
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@AldarRinchinov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rin.aldar.work@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@AldarRinchinov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aldar-rinchinov/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:rin.aldar.work@gmail.com)
 
 ---
 
